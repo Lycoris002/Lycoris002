@@ -8,8 +8,8 @@
 
 <div align="center">
     
- 🔭 I’m **ODOO Developer**
-    
+ 🔭 I’m **PYTHON Developer** 
+ 
  🌱 I’m currently learning **Docker, GGC, FLASK**
 
 ⚡ Fun fact **Google’s "20% time" for side projects is now "120% time," meaning more overtime on main tasks.**
@@ -23,6 +23,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>
+
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -30,6 +32,5 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,dart,python,javascript,typescript,c,java" />
     <img src="https://skillicons.dev/icons?i=bootstrap,express,firebase,mongodb,nextjs,aws,azure,mysql,flask,django,electron,nodejs" /><br>
 </div>
-
 <br/>
 <hr/>
