@@ -10,7 +10,7 @@
     
  🔭 I’m **PYTHON Developer** 
  
- 🌱 I’m currently learning **Docker, GGC, FLASK**
+ 🌱 I’m currently learning **AWS, GGC, FLASK**
 
 ⚡ Fun fact **Google’s "20% time" for side projects is now "120% time," meaning more overtime on main tasks.**
 
@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,dart,python,javascript,typescript,c,java" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,firebase,mongodb,nextjs,aws,azure,mysql,flask,django,electron,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,html,css,github,tailwind,git,dart,python,javascript,typescript,c,java" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,nextjs,aws,azure,postgres,flask,django,nodejs,pycharm" /><br>
 </div>
 <br/>
 <hr/>
