@@ -12,8 +12,6 @@
  
  🌱 I’m currently learning **AWS, GGC, FLASK**
 
-⚡ Fun fact **Google’s "20% time" for side projects is now "120% time," meaning more overtime on main tasks.**
-
 </div>
 <div align="center"> 
   <a href="mailto:phamlongg.work@gmail.com" target="_blank">
@@ -30,7 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,html,css,github,tailwind,git,dart,python,javascript,typescript,c" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,nextjs,aws,azure,postgres,fastapi,django,nodejs,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,nextjs,aws,azure,postgres,fastapi,django,nodejs" /><br>
 </div>
 <br/>
 <hr/>
